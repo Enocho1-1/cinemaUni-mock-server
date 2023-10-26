@@ -1,0 +1,44 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkphbmVEb2VAZXhhbXBsZS5jb20iLCJpYXQiOjE2OTgzMzYwNDcsImV4cCI6MTY5ODMzOTY0Nywic3ViIjoiMSJ9.yWYZTK0yaaVylR3oP3_qLgzHssCM3NijKOL6e0vbNhg",
+      "userEmail": "JaneDoe@example.com",
+      "list": [
+        {
+          "id": 299054,
+          "title": "Expend4bles",
+          "image": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+          "type": "MOVIE"
+        },
+        {
+          "id": 609681,
+          "title": "The Marvels",
+          "image": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
+          "type": "movie"
+        },
+        {
+          "id": 1396,
+          "title": "Breaking Bad",
+          "image": "/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
+          "type": "tv"
+        },
+        {
+          "id": 31911,
+          "title": "Fullmetal Alchemist: Brotherhood",
+          "image": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+          "type": "tv"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "JaneDoe@example.com",
+      "password": "$2a$10$DMShnFV.Oc4tOGbsa59GyOmtS8nrqywRCmJXUlRAoXtfho7rXG26G",
+      "name": "Jane Doe",
+      "id": 1
+    }
+  ]
+}
