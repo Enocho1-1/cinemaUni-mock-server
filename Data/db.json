@@ -3,57 +3,21 @@
     {
       "id": 1,
       "name": "Jane Doe",
-      "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkphbmVEb2VAZXhhbXBsZS5jb20iLCJpYXQiOjE2OTgzNDExMzEsImV4cCI6MTY5ODM0NDczMSwic3ViIjoiMSJ9.xAb7Mcip2s64OwqDfW9WDX2sR5T_hxZBTajxrYH2ZE0",
+      "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IkphbmVEb2VAZXhhbXBsZS5jb20iLCJpYXQiOjE3MDIzMTA0NDUsImV4cCI6MTcwMjMxNDA0NSwic3ViIjoiMSJ9.8WTdSAEE9J8fFW5X2piS-WjqyYfNAA518cJxq7tZs6Y",
       "userEmail": "JaneDoe@example.com",
       "list": [
         {
-          "id": 299054,
-          "title": "Expend4bles",
-          "image": "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
-          "type": "MOVIE"
-        },
-        {
-          "id": 609681,
-          "title": "The Marvels",
-          "image": "/y4YMYsGSMwu8e985g0Zbumvqxld.jpg",
+          "id": 956920,
+          "title": "There's Something in the Barn",
+          "image": "/axrzMJR5VPWYNiW9ArENiMEPTjr.jpg",
           "type": "movie"
-        },
-        {
-          "id": 1396,
-          "title": "Breaking Bad",
-          "image": "/3xnWaLQjelJDDF7LT1WBo6f4BRe.jpg",
-          "type": "tv"
-        },
-        {
-          "id": 31911,
-          "title": "Fullmetal Alchemist: Brotherhood",
-          "image": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
-          "type": "tv"
-        },
-        {
-          "id": 901362,
-          "title": "Trolls Band Together",
-          "image": "/kaQwboGvF6wZ4hYIvMYMFBgUCp5.jpg",
-          "type": "movie"
-        },
-        {
-          "id": 9469,
-          "title": "He Got Game",
-          "image": "/kd8hRaysUQOz7AvSorZDJHuihcJ.jpg",
-          "type": "movie"
-        },
-        {
-          "id": 85937,
-          "title": "Demon Slayer: Kimetsu no Yaiba",
-          "image": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
-          "type": "tv"
         }
       ]
     },
     {
       "id": 2,
       "name": "Mike Doe ",
-      "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ik1pa2VEb2VAZXhhbXBsZS5jb20iLCJpYXQiOjE2OTgzNDI3MzUsImV4cCI6MTY5ODM0NjMzNSwic3ViIjoiMiJ9.XrN_vp24bjK_ksMbhPBNWRCjcqlRVQYHa_mF_mPpPsQ",
+      "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ik1pa2VEb2VAZXhhbXBsZS5jb20iLCJpYXQiOjE3MDIzMTM5MTMsImV4cCI6MTcwMjMxNzUxMywic3ViIjoiMiJ9.i3EJKLFIoAYqt82MKXEiJ1pP7rlRSV_oJgAt0e5YLRQ",
       "userEmail": "MikeDoe@example.com",
       "list": [
         {
@@ -75,6 +39,26 @@
           "type": "tv"
         }
       ]
+    },
+    {
+      "id": 3,
+      "name": "Sasuke Uchiha",
+      "userToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlNhc3VrZUBleGFtcGxlLmNvbSIsImlhdCI6MTcwMjMxMzk1NSwiZXhwIjoxNzAyMzE3NTU1LCJzdWIiOiIzIn0.f1rAsKe9LNJbERfBIGPLuGwoFXF4wjWILOu0fhWScxE",
+      "userEmail": "Sasuke@example.com",
+      "list": [
+        {
+          "id": 1434,
+          "title": "Family Guy",
+          "image": "/hw2vi8agaJZ7oeSvS8uEYgOtK32.jpg",
+          "type": "tv"
+        },
+        {
+          "id": 2190,
+          "title": "South Park",
+          "image": "/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+          "type": "tv"
+        }
+      ]
     }
   ],
   "users": [
@@ -89,6 +73,12 @@
       "password": "$2a$10$Ufg11vjH3M9UIKqORgNVX.TSFhJ.bG59Eq3iPlOyrdEuEVTVwh9sa",
       "name": "Mike Doe ",
       "id": 2
+    },
+    {
+      "email": "Sasuke@example.com",
+      "password": "$2a$10$pGgGnah.GbqlIytuJU4yievlNT7TtHza5VeSzNZQ5BqM2dXLSzLde",
+      "name": "Sasuke Uchiha",
+      "id": 3
     }
   ]
 }
